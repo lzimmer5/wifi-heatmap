@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS
+.DS_Store
+
+# Misc
+*.log
+
+# Ignore sensitive keys
+static/config.js
